@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #1E003E;
+}
+
+.custom-stroke {
+  -webkit-text-stroke: 2px white;
+  color: transparent;
+}
